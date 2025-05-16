@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBywIGfirfU=",
+  "success": true,
+  "projectFilePath": "C:\\LocalFiles\\Projects\\JsonSummer\\JsonSummer\\JsonSummer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\difik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
